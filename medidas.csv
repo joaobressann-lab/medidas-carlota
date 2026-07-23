@@ -1,7 +1,7 @@
 ref;nome;medida;PP;P;M;G;GG
 CP272410;Blusa de Renda;busto;80-84;84-88;88-92;92-96;96-100
 CI262047.1;Casaco Liso com Bolso;busto;0-84;85-89;90-94;95-100;101-999
-CI262033.2;Saia com Costuras Contrastantes;cintura;62-66;66-70;70-74;74-78;78-82
-CI262033.2;Saia com Costuras Contrastantes;quadril;88-92;92-96;96-100;100-104;104-108
-CI261910.2;Calça Alfaiataria;cintura;64-68;68-72;72-76;76-80;80-84
-CI261910.2;Calça Alfaiataria;quadril;88-93;93-98;98-103;103-108;108-113
+CI262033.2;Saia com Costuras Contrastantes;cintura;0-66;67-73;74-80;81-88;89-96
+CI262033.2;Saia com Costuras Contrastantes;quadril;0-92;93-98;99-106;107-114;115-999
+CI261910.2;Calça Alfaiataria;cintura;0-66;67-73;74-80;81-88;89-96
+CI261910.2;Calça Alfaiataria;quadril;0-92;93-98;99-106;107-114;115-999
