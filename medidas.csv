@@ -105,7 +105,6 @@ REST1761;Jaqueta com Capuz;busto;0-0;0-89;89-94;94-999;0-0
 REST1781;Camiseta com Estampa;busto;0-0;0-89;89-94;94-999;0-0
 REST1782;Camisa Peplum;busto;0-84;85-89;90-94;95-100;101-108
 REST1782;Camisa Peplum;cintura;0-66;67-73;74-80;81-88;89-96
-REST1783;Camisa com Pontas;busto;0-0;0-89;89-94;94-999;0-0
 REST1784;Bata com Babados;busto;0-84;84-89;89-94;94-999;0-0
 REST1785;Blazer Alongado;busto;0-84;84-89;89-94;94-999;0-0
 REST1786;Calça Cenoura;cintura;0-66;66-73;73-80;80-999;0-0
@@ -324,3 +323,4 @@ CSI261881.2;Calça Cropped;quadril;0-92;93-98;99-106;107-114;115-999
 CSI262054.1;Camisa com Botões;busto;0-84;85-89;90-94;95-100;101-999
 CSI262054.2;Calça com Pespontos;cintura;0-66;67-73;74-80;81-88;89-999
 CSI262054.2;Calça com Pespontos;quadril;0-92;93-98;99-106;107-114;115-999
+REST1783;Camisa Manga Longa com Pontas;busto;0-0;0-89;90-94;95-999;0-0
