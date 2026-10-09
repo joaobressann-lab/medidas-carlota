@@ -472,3 +472,5 @@ CSV272551;Saia Midi com Cós Franzido Lisa;cintura;0-66;67-73;74-80;81-88;89-999
 CV272824.1;Colete Frente Única;busto;0-84;85-89;90-94;95-100;101-999
 CSV272545;Regata Assimétrica Lisa;busto;0-84;85-89;90-94;95-100;101-999
 CSV272541.1;Blusa com Recortes Assimétricos Bicolor;busto;0-84;85-89;90-94;95-100;101-999
+CSV272541.2;Calça Carrot com Pregas;cintura;0-70;71-78;79-86;87-94;95-999
+CSV272541.2;Calça Carrot com Pregas;quadril;0-92;93-98;99-106;107-114;115-999
