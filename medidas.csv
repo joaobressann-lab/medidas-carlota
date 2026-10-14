@@ -510,3 +510,18 @@ REST1325;T-shirt Básica;busto;0-84;85-89;90-94;95-100;101-108
 REST1190;Camisa Faixa Frontal;busto;0-84;85-89;90-94;95-100;101-999
 REST1738.1;Blusa de Moletom Manga Longa;busto;0-84;85-89;90-94;95-100;101-108
 REST1525.1;T-shirt Básica Tricolor;busto;0-84;85-89;90-94;95-100;101-108
+CCJEANS0001;Calça Jeans Ballon;tamanhos;36;38;40;42;44
+CCJEANS0001;Calça Jeans Ballon;cintura;0-71;72-75;76-79;80-83;84-999
+CCJEANS0001;Calça Jeans Ballon;quadril;0-102;103-106;107-110;111-114;115-999
+CCJEANS0002;Calça Jeans Mom;tamanhos;36;38;40;42;44
+CCJEANS0002;Calça Jeans Mom;cintura;0-71;72-75;76-79;80-83;84-999
+CCJEANS0002;Calça Jeans Mom;quadril;0-102;103-106;107-110;111-114;115-999
+CCJEANS0003;Short Jeans;tamanhos;36;38;40;42;44
+CCJEANS0003;Short Jeans;cintura;0-70;71-74;75-78;79-82;83-999
+CCJEANS0003;Short Jeans;quadril;0-99;100-103;104-107;108-111;112-999
+CCJEANS0004;Calça Jeans Wide;tamanhos;36;38;40;42;44
+CCJEANS0004;Calça Jeans Wide;cintura;0-72;73-76;77-80;81-84;85-999
+CCJEANS0004;Calça Jeans Wide;quadril;0-98;99-102;103-106;107-110;111-999
+CGJEANS0004;Calça Jeans Wide Leg;tamanhos;36;38;40;42;44
+CGJEANS0004;Calça Jeans Wide Leg;cintura;0-72;73-76;77-80;81-84;85-999
+CGJEANS0004;Calça Jeans Wide Leg;quadril;0-98;99-102;103-106;107-110;111-999
