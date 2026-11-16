@@ -792,3 +792,15 @@ REST1583;Vestido Midi Decote V;cintura;0-66;67-73;74-80;81-88;89-999
 REST1595.1;T-shirt Canelada;busto;0-84;85-89;90-94;95-100;101-999
 REST1008;Vestido Longo com Cordão;busto;0-84;85-89;90-94;95-100;101-999
 REST1008;Vestido Longo com Cordão;cintura;0-70;71-78;79-86;87-94;95-999
+REST0124;Vestido Curto Manga Bufante;busto;0-0;0-89;90-94;95-100;101-999
+REST0124;Vestido Curto Manga Bufante;cintura;0-0;0-73;74-80;81-88;89-999
+REST1967;Camisa Manga Balonê;busto;0-84;85-89;90-94;95-100;101-999
+REST1626;Vestido Midi com Faixa;busto;0-84;85-89;90-94;95-100;101-999
+REST1626;Vestido Midi com Faixa;cintura;0-66;67-73;74-80;81-88;89-999
+REST1567;Blusa com Ponta;busto;0-84;85-89;90-94;95-100;101-999
+REST1595.2;Calça Canelada;cintura;0-70;71-78;79-86;87-94;95-999
+REST1595.2;Calça Canelada;quadril;0-92;93-98;99-106;107-114;115-999
+REST0228.2;Saia Midi com Nó;cintura;0-66;67-73;74-80;81-999;0-0
+REST1973.2;Bermuda de Alfaiataria;cintura;0-66;67-73;74-80;81-88;89-999
+REST1973.2;Bermuda de Alfaiataria;quadril;0-92;93-98;99-106;107-114;115-999
+RIT2846;Vestido com Marias;busto;0-84;85-89;90-94;95-100;101-999
