@@ -1056,3 +1056,28 @@ CI262036;Blazer Alongado Liso;busto;0-84;85-89;90-94;95-100;101-999
 CI261871.1;Blazer com Frente Assimétrica e Gola Ampla;busto;0-84;85-89;90-94;95-100;101-999
 CI261866;Vestido Mangas Longas com Detalhe em Babados;busto;0-84;85-89;90-94;95-100;101-999
 CP272406;Vestido Regata com Babados Laterais;busto;0-84;85-89;90-94;95-100;101-999
+REST2034;Vestido Regata Mullet;busto;0-84;85-89;90-94;95-999;
+REST2030;Blusa Assimétrica Longa;busto;0-84;85-89;90-94;95-999;
+REST2020;Vestido Chemise Midi;busto;0-84;85-89;90-94;95-100;101-999
+REST2013.1;Regata de Linho com Abertura Lateral;busto;0-84;85-89;90-94;95-100;101-999
+REST2013.2;Short de Linho com Elástico;cintura;0-70;71-78;79-86;87-94;95-999
+REST2013.2;Short de Linho com Elástico;quadril;0-92;93-98;99-106;107-114;115-999
+REST2010.1;Colete Gola Alta;busto;0-84;85-89;90-94;95-100;101-999
+REST2010.2;Calça com Pregas;cintura;0-66;67-73;74-80;81-88;89-999
+REST2010.2;Calça com Pregas;quadril;0-92;93-98;99-106;107-114;115-999
+REST2009;Saia Balonê Torcida;cintura;0-70;71-78;79-86;87-999;
+REST2008;Vestido com Camadas;busto;0-84;85-89;90-94;95-100;101-999
+REST2007;Regata Decote Quadrado;busto;0-84;85-89;90-94;95-100;101-999
+REST2006;Blusa Gola Degagê;busto;0-84;85-89;90-94;95-100;101-999
+REST2005;Vestido Assimétrico com Faixa;busto;0-84;85-89;90-94;95-100;101-999
+REST2003.1;Blusa Frente Única de Malha;busto;0-84;85-89;90-94;95-999;
+REST2003.2;Calça de Malha Flare;cintura;0-70;71-78;79-86;87-999;
+REST2003.2;Calça de Malha Flare;quadril;0-92;93-98;99-106;107-999;
+REST2002;Regata Frente Única;busto;0-84;85-89;90-94;95-999;
+REST1997;Blusa com Poá e Babados;busto;0-84;85-89;90-94;95-100;101-999
+REST1993.1;Regata Composê Três Cores;busto;0-84;85-89;90-94;95-999;
+REST1993.2;Calça Reta com Elástico;cintura;0-70;71-78;79-86;87-999;
+REST1993.2;Calça Reta com Elástico;quadril;0-92;93-98;99-106;107-999;
+REST1991.1;Regata com Babado Estampada;busto;0-84;85-89;90-94;95-999;
+REST1991.2;Calça Aladim Estampada;cintura;0-70;71-78;79-86;87-999;
+REST1991.2;Calça Aladim Estampada;quadril;0-92;93-98;99-106;107-999;
